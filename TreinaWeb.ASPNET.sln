@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreinaWeb.ASPNET.MVC", "TreinaWeb.ASPNET.MVC\TreinaWeb.ASPNET.MVC.csproj", "{F32EF798-1BF7-4A89-9ACF-E8092B412525}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreinaWeb.ASPNET.MVC.Tests", "TreinaWeb.ASPNET.MVC.Tests\TreinaWeb.ASPNET.MVC.Tests.csproj", "{04EE2A84-4694-4FC0-9B26-42CFF0345339}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F32EF798-1BF7-4A89-9ACF-E8092B412525}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F32EF798-1BF7-4A89-9ACF-E8092B412525}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F32EF798-1BF7-4A89-9ACF-E8092B412525}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F32EF798-1BF7-4A89-9ACF-E8092B412525}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04EE2A84-4694-4FC0-9B26-42CFF0345339}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04EE2A84-4694-4FC0-9B26-42CFF0345339}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04EE2A84-4694-4FC0-9B26-42CFF0345339}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04EE2A84-4694-4FC0-9B26-42CFF0345339}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E386490-826B-4AB0-B540-BB7D27C61D7F}
+	EndGlobalSection
+EndGlobal
